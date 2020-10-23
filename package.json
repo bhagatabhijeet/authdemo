@@ -1,0 +1,26 @@
+{
+  "name": "authdemo",
+  "version": "1.0.0",
+  "description": "An express application with React Front end to practice authentiction using passport.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhagatabhijeet/authdemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhagatabhijeet/authdemo/issues"
+  },
+  "homepage": "https://github.com/bhagatabhijeet/authdemo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  }
+}
